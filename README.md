@@ -1,3 +1,5 @@
 # Uranium-Addon
 This is Uranium Addon. This mod for mindustry adds uranium and more drills, turrets, block, etc.
-Code and some assets from this mod can be found on https://github.com/Jacobs-Develop/JD.
+If you want to edit this mod or do something with this mod please contact me:
+Discord group - https://discord.gg/zbHxHkD (DM me with "Uranium Addon" word in message and mention me.)
+Gmail - jakubsitekdev@gmail.com (In tittle write "Uranium Addon")
