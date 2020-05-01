@@ -1,0 +1,6 @@
+name: Molten Uranium
+description: Who cares that molten uranium is more dangerous than solid uranium.
+temperature: 2
+viscosity: 0.8
+effect: melting
+color: 05a10a

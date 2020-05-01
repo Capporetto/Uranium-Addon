@@ -1,0 +1,11 @@
+name: Small uranium Wall
+description: Small uranium wall, good but not as good as you think.
+type: Wall
+health: 2400
+size: 1
+requirements: [
+  uranium/15
+  lead/9
+]
+category: defense
+research: titanium-wall

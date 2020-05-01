@@ -1,0 +1,21 @@
+name: Uranium Drill
+description: Good drill.
+type: Drill
+size: 5
+tier: 8
+drillTime: 250
+consumes: {
+  power: 32
+  liquid: {
+    liquid: molten-uranium
+    amount: 3
+    booster: true
+  }
+}
+requirements: [
+  uranium/57
+  lead/36
+  copper/34
+]
+category: production
+research: blast-drill

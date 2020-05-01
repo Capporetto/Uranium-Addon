@@ -1,0 +1,11 @@
+name: Uranium Wall
+description: Good wall to secure your base.
+type: Wall
+health: 3500
+size: 2
+requirements: [
+  uranium/25
+  lead/16
+]
+category: defense
+research: uranium-wall-small

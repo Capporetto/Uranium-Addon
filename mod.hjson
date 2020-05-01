@@ -1,0 +1,6 @@
+name: "UraniumAddon"
+displayName: "[lime]Uranium Addon" //what displays in the mod selection menu
+author: "Jacobs Develop"
+description: "Uranium Addon add uranium ore, material, drill and more."
+version: "Alpha 1"
+minGameVersion: "104"

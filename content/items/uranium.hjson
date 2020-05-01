@@ -1,0 +1,5 @@
+type: material
+name: Uranium
+description: Good material but safe only with lead.
+cost: 4.8
+color: 1fe026

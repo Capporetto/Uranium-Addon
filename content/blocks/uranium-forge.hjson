@@ -1,0 +1,28 @@
+type: GenericSmelter
+name: Uranium Forge
+description: Smelts uranium into molten uranium.
+liquidCapacity: 50
+size: 5
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 4
+  items: {
+    items: [
+      uranium/2
+    ]
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  uranium/26
+]
+category: crafting
+research: alloy-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: molten-uranium/1

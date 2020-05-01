@@ -1,0 +1,15 @@
+type: flyingUnit
+name: Uranium Wraith
+description: Very good wraith.
+speed: 2
+flying: true
+health: 250
+engineOffset: 5.5
+range: 160
+weapon: {
+  name: uranium-blaster
+  length: 1.5
+  reload: 1
+  alternate: true
+  bullet: lightning
+}

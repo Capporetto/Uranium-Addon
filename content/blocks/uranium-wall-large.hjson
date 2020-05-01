@@ -1,0 +1,11 @@
+name: Large uranium Wall
+description: Better version of normal uranium wall.
+type: Wall
+health: 6500
+size: 4
+requirements: [
+  uranium/85
+  lead/39
+]
+category: defense
+research: uranium-wall

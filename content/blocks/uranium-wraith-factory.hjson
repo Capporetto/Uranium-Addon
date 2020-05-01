@@ -1,0 +1,24 @@
+name: Uranium Wraith Factory
+description: Makes Uranium Wraith units.
+type: UnitFactory
+unitType: uranium-wraith
+size: 2
+produceTime: 650
+consumes: {
+  power: 3
+  items: {
+    items: [
+      uranium/25
+      lead/35
+	  silicon/60
+    ]
+  }
+}
+category: units
+research: wraith-factory
+requirements: [
+  silicon/40
+  titanium/20
+  lead/58
+  uranium/89
+]
